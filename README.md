@@ -11,7 +11,7 @@ chmod +x install.sh
 ```
 ## What does this do?
 
-Well this is rather simply really. First it will update and upgrade you Debian based operating system.
+Well this is rather simply really. First it will update and upgrade your Debian based operating system.
 It will then add the "universe" repository to enable the downloading of the Cinnamon Desktop Environment and lightdm.
 Then it will extract the 2 zip files you see in front of you.
 Then it will create the folders it needs to in the /home/ directory. These are .icons and .themes
