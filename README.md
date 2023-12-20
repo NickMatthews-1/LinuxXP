@@ -28,4 +28,4 @@ If you stumbled across it without having seen my video why not go watch the vide
 
 Thank you for chosing me as your creator of choice. Have a good day!
 
-GPLv3 Nick Matthews / Linux Panic 2023
+GPLv2 Nick Matthews / Linux Panic 2023
