@@ -10,7 +10,7 @@ cd $HOME
 mkdir .icons
 mkdir .themes
 pwd
-cd Desktop/LinuxXP
+cd LinuxXP
 pwd
 sudo mv Windows-XP-Desktops/ $HOME/.themes
 sudo mv Windows-XP-3.1/ $HOME/.icons
