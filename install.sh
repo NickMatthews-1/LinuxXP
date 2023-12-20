@@ -24,7 +24,7 @@ sudo mv Windows-XP-3.1/ $HOME/.icons
 cd Windows-XP-Desktops/
 
 
-sudo mv Windows\ XP\ Embedded/ $HOME/.themes
+sudo mv Windows-XP-Embedded/ $HOME/.themes
 sudo mv Windows\ XP\ Royale/ $HOME/.themes
 sudo mv Windows\ XP\ Homestead $HOME/.themes
 sudo mv Windows\ XP\ Royale\ Dark/ $HOME/.themes
