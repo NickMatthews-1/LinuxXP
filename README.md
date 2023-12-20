@@ -27,3 +27,5 @@ on how do this. Thank you for the view and coming across.
 If you stumbled across it without having seen my video why not go watch the video and other Linux tutorial videos that I have made!
 
 Thank you for chosing me as your creator of choice. Have a good day!
+
+GPLv3 Nick Matthews / Linux Panic 2023
